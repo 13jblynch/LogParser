@@ -1,0 +1,2 @@
+# LogParser
+Error Log Visualizer
